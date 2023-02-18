@@ -1,0 +1,18 @@
+$OR;D2
+* From-Time  To-Time
+0.00 1.00
+* Factor
+1.00
+* additional comments
+         left       right        1500.00
+         left       top          1500.00
+         left       bottom       1500.00
+         top        right        1500.00
+         top        bottom       1500.00
+         top        left         1500.00
+         right      bottom       1500.00
+         right      left         1500.00
+         right      top          1500.00
+         bottom      left        1500.00
+         bottom      top         1500.00
+         bottom      right       1500.00

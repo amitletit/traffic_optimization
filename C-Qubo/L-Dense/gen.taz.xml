@@ -1,0 +1,8 @@
+<additional>
+		         <tazs>
+                   <taz id="left"><tazSource id="left0A0" weight="0.5"/><tazSink id="A0left0" weight="0.5"/></taz>
+                   <taz id="top"><tazSource id="top0A0" weight="0.5"/><tazSink id="A0top0" weight="0.5"/></taz>
+				   <taz id="right"><tazSource id="right0A0" weight="0.5"/><tazSink id="A0right0" weight="0.5"/></taz>
+                   <taz id="bottom"><tazSource id="bottom0A0" weight="0.5"/><tazSink id="A0bottom0" weight="0.5"/></taz>
+                 </tazs>
+				 </additional>
